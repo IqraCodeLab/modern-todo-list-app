@@ -2,7 +2,7 @@
 
 A sleek, responsive, and feature-rich To-Do List application built with HTML, CSS (Vanilla), and JavaScript. Featuring a modern **Glassmorphism** design and optimized for a premium user experience.
 
-![Demo Mockup](https://raw.githubusercontent.com/username/project/main/demo.png) *(Placeholder for your project image)*
+
 
 ## 🚀 Features
 

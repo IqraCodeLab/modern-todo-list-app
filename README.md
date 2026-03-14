@@ -34,4 +34,4 @@ A sleek, responsive, and feature-rich To-Do List application built with HTML, CS
 2. Open `index.html` in any modern web browser.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [IQra Khan]
